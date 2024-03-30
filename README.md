@@ -113,9 +113,3 @@ You can easily install all required dependencies with the following pip command:
 ```bash
 pip install PyPDF2 langchain python-dotenv pandas chromadb google-api-python-client tqdm ipython
 ```
-### Quick Start
-
-```bash
-git clone https://github.com/mihireshjoshi/Cheatbot.git
-cd Cheatbot
-```
